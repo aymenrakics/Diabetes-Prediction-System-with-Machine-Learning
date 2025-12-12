@@ -626,32 +626,6 @@ def distribution_age(self):
     plt.show()
 ```
 
-## 🚀 Améliorations futures
-
-### Court terme (1-2 semaines)
-
-- [ ] Ajouter la validation croisée (K-Fold)
-- [ ] Implémenter GridSearchCV pour l'optimisation des hyperparamètres
-- [ ] Créer un dashboard interactif avec Plotly
-- [ ] Ajouter Random Forest et Gradient Boosting
-- [ ] Gérer le déséquilibre des classes (SMOTE, class_weight)
-
-### Moyen terme (1-2 mois)
-
-- [ ] Interface graphique avec Streamlit ou Tkinter
-- [ ] Export des modèles entraînés (pickle/joblib)
-- [ ] API REST avec Flask pour prédictions en temps réel
-- [ ] Analyse des features importantes (SHAP values)
-- [ ] Tests unitaires avec pytest
-
-### Long terme (3-6 mois)
-
-- [ ] Déploiement sur Heroku/AWS
-- [ ] Application web complète (Django + React)
-- [ ] Intégration de deep learning (TensorFlow/PyTorch)
-- [ ] Pipeline MLOps avec MLflow
-- [ ] Monitoring des modèles en production
-
 ## 🧪 Tests
 
 ### Exécuter les tests unitaires
@@ -784,35 +758,14 @@ Si vous trouvez un bug, ouvrez une [issue](https://github.com/votre-username/dia
 5. **Screenshots** (si applicable)
 6. **Environnement** (OS, version Python, etc.)
 
-## 💡 Questions fréquentes (FAQ)
-
-### Q : Le fichier CSV n'est pas trouvé
-**R :** Assurez-vous que le fichier est dans `./data/` et que le chemin est correct.
-
-### Q : Erreur d'importation de sklearn
-**R :** Installez scikit-learn : `pip install scikit-learn`
-
-### Q : Les graphiques ne s'affichent pas
-**R :** Vérifiez que matplotlib est installé et que le dossier `figures/` existe.
-
-### Q : Comment améliorer les performances des modèles ?
-**R :** Essayez :
-- L'optimisation des hyperparamètres (GridSearchCV)
-- La normalisation des features (StandardScaler)
-- L'ingénierie de features
-- Des modèles d'ensemble (Random Forest, XGBoost)
-
-### Q : Puis-je utiliser ce projet pour d'autres datasets ?
-**R :** Oui ! Remplacez le fichier CSV et adaptez les noms de colonnes dans le code.
-
 ## 👨‍💻 Auteur
 
 **Votre Nom**  
 Étudiant en Data Science / Machine Learning
 
-📧 [votre.email@example.com](mailto:votre.email@example.com)  
+📧 [aymen.raki.cs@gmail.com](mailto:aymen.raki.cs@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/votre-profil)  
-🐙 [GitHub](https://github.com/votre-username)  
+🐙 [GitHub](https://github.com/aymenrakics)  
 🌐 [Portfolio](https://votre-site.com)
 
 ## 👥 Remerciements
